@@ -64,10 +64,10 @@ st.markdown("""
 
 # 🧠 Título
 st.title("📷 OCR con Cámara")
-st.caption("Toma una foto, aplica un filtro y extrae texto de la imagen fácilmente.")
+st.caption("Toma una foto, aplica un filtro y extrae texto de la imagen fácilmente.Espero que vaya bien la foto :3")
 
 # 📸 Captura con cámara
-img_file_buffer = st.camera_input("Toma una Foto")
+img_file_buffer = st.camera_input("Toma una Foto...")
 
 # ⚙️ Sidebar con opciones
 with st.sidebar:
